@@ -1,4 +1,5 @@
-	<script type="application/javascript">
+<script type="text/javascript" src="${contextPath}/resources/js/common/jquery.min.js"></script>
+<script type="application/javascript">
 		$(document).ready(function(){
             $("#upload_image_a").click(function(){
                 $('#upload_image_div').show();
